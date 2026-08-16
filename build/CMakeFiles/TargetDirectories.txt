@@ -1,0 +1,3 @@
+/Users/sorathiyaadityavijaybhai/Desktop/large-file-storage/build/CMakeFiles/storage_server.dir
+/Users/sorathiyaadityavijaybhai/Desktop/large-file-storage/build/CMakeFiles/edit_cache.dir
+/Users/sorathiyaadityavijaybhai/Desktop/large-file-storage/build/CMakeFiles/rebuild_cache.dir
