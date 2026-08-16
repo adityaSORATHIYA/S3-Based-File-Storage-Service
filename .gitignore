@@ -1,0 +1,5 @@
+__MACOSX/
+large-file-storage/build/
+large-file-storage/tests/
+large-file-storage/sql/
+.gitignore
