@@ -1,0 +1,8 @@
+CMakeLists.txt
+hello.txt
+large-file-storage-documentation.md
+include/database/
+include/models/
+src/database/
+.DS_Store
+.gitignore
